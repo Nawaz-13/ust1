@@ -1,4 +1,4 @@
-my name is nawaz 
+my name is Muhammed nawaz
 <br>
 Now im practicing the GITHUB
 <br>
